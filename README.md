@@ -1,6 +1,6 @@
-Working @ [Clay](https://www.clay.com/)
-Writing @ [My Blog](https://www.thewindowseat.io/The-Window-Seat-676c701e74d14328b4bb9b8451a3df6c)
-College @ [Dartmouth](https://home.dartmouth.edu/)
+- Working @ [Clay](https://www.clay.com/)
+- Writing @ [My Blog](https://www.thewindowseat.io/The-Window-Seat-676c701e74d14328b4bb9b8451a3df6c)
+- College @ [Dartmouth](https://home.dartmouth.edu/)
 
 <!--
 **areznik23/areznik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
