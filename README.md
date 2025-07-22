@@ -1,5 +1,4 @@
 - Working @ [Clay](https://www.clay.com/)
-- Writing @ [My Blog](https://www.thewindowseat.io/The-Window-Seat-676c701e74d14328b4bb9b8451a3df6c)
 - College @ [Dartmouth](https://home.dartmouth.edu/)
 - Located @ [NYC](https://www.google.com/maps/place/central+park/data=!4m2!3m1!1s0x89c2589a018531e3:0xb9df1f7387a94119?sa=X&ved=1t:155783&ictx=111)
 
