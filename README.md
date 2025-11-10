@@ -1,6 +1,6 @@
-Software Engineer @ [Clay](https://www.clay.com/) /n
-Applied Math @ [Dartmouth](https://home.dartmouth.edu/) /n
-Living in @ [NYC](https://www.google.com/maps/place/central+park/data=!4m2!3m1!1s0x89c2589a018531e3:0xb9df1f7387a94119?sa=X&ved=1t:155783&ictx=111)
+- Software Engineer @ [Clay](https://www.clay.com/)
+- Applied Math @ [Dartmouth](https://home.dartmouth.edu/)
+- Living in @ [NYC](https://www.google.com/maps/place/central+park/data=!4m2!3m1!1s0x89c2589a018531e3:0xb9df1f7387a94119?sa=X&ved=1t:155783&ictx=111)
 
 <!--
 **areznik23/areznik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
